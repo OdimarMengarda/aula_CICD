@@ -1,0 +1,5 @@
+git init
+git add main.c
+git commit -m "Adiciona código de soma em C"
+git remote add origin https://github.com/SEU_USUARIO/c-math-pipeline.git
+git push -u origin main
