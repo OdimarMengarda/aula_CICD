@@ -1,0 +1,5 @@
+mkdir -p .github/workflows
+# cole o conteúdo do YAML no arquivo .github/workflows/c-cd.yml
+git add .github/workflows/c-cd.yml
+git commit -m "Adiciona pipeline CI para compilar e executar o código C"
+git push
